@@ -18,6 +18,8 @@
 
 
 ## Graph
+![WhatsApp Image 2025-11-26 at 00 19 51](https://github.com/user-attachments/assets/c6a1441a-d430-478d-8da3-883680ef66cd)
+
 <img width="1280" height="811" alt="image" src="https://github.com/user-attachments/assets/e05c5e48-3b12-4b55-9825-33d0769b4729" />
 
 
