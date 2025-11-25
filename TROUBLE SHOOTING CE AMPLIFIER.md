@@ -10,6 +10,6 @@
 
 ## Semilog Graph
 <img width="981" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ab795cb-2cfc-40f5-810b-d160644bf0fa" />
-
+<img width="1599" height="1085" alt="image" src="https://github.com/user-attachments/assets/7bcf66e1-1900-4b60-8e13-dd7d5aba239c" />
 <img width="1599" height="868" alt="image" src="https://github.com/user-attachments/assets/5fec1d78-0080-49a1-96bd-30ec61acacb2" />
 
