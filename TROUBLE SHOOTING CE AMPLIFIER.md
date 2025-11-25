@@ -3,11 +3,13 @@
 <img width="876" height="742" alt="image" src="https://github.com/user-attachments/assets/0eddc772-f12e-43cb-a69c-ad8a2e1bf096" />
 <img width="693" height="277" alt="image" src="https://github.com/user-attachments/assets/3d74a48a-cfa9-4abf-988c-94f1da5d1062" />
 <img width="862" height="776" alt="image" src="https://github.com/user-attachments/assets/e84201fb-e35d-49d4-9f21-e5fe9856d519" />
-<img width="885" height="633" alt="image" src="https://github.com/user-attachments/assets/1eb504bf-ffbd-45a7-8ede-d0593601d20a" />
-
 
 ## Tabulations 
+<img width="1028" height="1280" alt="image" src="https://github.com/user-attachments/assets/22ac52ea-671a-4970-913f-b7649b134cd2" />
+
 
 ## Semilog Graph
+<img width="981" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ab795cb-2cfc-40f5-810b-d160644bf0fa" />
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+<img width="1599" height="868" alt="image" src="https://github.com/user-attachments/assets/5fec1d78-0080-49a1-96bd-30ec61acacb2" />
+
